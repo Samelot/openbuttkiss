@@ -2,9 +2,7 @@
 
 1. Download openbuttkiss.
 
-1. In terminal, cd to the plugin folder and run:
-
-    `npm install`
+1. In terminal, cd to the plugin folder and run `npm install`.
 
 1. Follow one of the methods below to set up the plugin with a Photoshop Generator.
 
