@@ -10,18 +10,18 @@
 
 **Built-in Generator**
 
-Place the plugin inside the Photoshop Plug-ins folder:
-
-    Applications/Adobe Photoshop CC/Plug-ins/Generator
-
-Open Photoshop.
-
-Go to `Photoshop > Preferences > Plug-ins` and check `Enable Generator`. You may need to restart Photoshop for this to take effect.
+> Place the plugin inside the Photoshop Plug-ins folder:
+>
+>       Applications/Adobe Photoshop CC/Plug-ins/Generator
+>
+> Open Photoshop.
+>
+> Go to `Photoshop > Preferences > Plug-ins` and check `Enable Generator`. You may need to restart Photoshop for this to take effect.
 
 **External Generator**
 
-Run the plugin from a locally cloned [generator-core](https://github.com/adobe-photoshop/generator-core) library. My workflow consists of having all my plugins inside the generator-core plugins folder.
-
+> Run the plugin from a locally cloned [generator-core](https://github.com/adobe-photoshop/generator-core) library. My workflow consists of having all my plugins inside the generator-core plugins folder.
+>
 > In terminal, cd to `generator-core` and run:
 >
 >       node app.js -f test/plugins/openbuttkiss
