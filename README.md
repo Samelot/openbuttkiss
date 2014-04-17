@@ -1,9 +1,7 @@
 ## Installation
 
 * Download openbuttkiss.
-
 * In terminal, cd to the plugin folder and run `npm install`.
-
 * Follow one of the methods below to set up the plugin with a Photoshop Generator.
 
 **Built-in Generator**
@@ -36,8 +34,7 @@ Send an OSC message with an argument of 1 to `osc.udp://localhost:3333`.
 
 When a message is recieved by the plugin, two things will happen in Photoshop:
 
-1. **The foreground and background colors swap.**
-
-1. **Photoshop is brought to the front of any other applications we have open.**
+* **The foreground and background colors swap.**
+* **Photoshop is brought to the front of any other applications we have open.**
 
 #### [sizeoverload.com/blog/osc-photoshop/](http://sizeoverload.com/blog/osc-photoshop/)
