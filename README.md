@@ -1,15 +1,18 @@
 ## Installation
 
 1. Download openbuttkiss.
+
 1. In terminal, cd to the plugin folder and run:
+
     npm install
+
 1. Follow one of the methods below to set up the plugin with a Photoshop Generator.
 
 **Built-in Generator**
 
 Place the plugin inside the Photoshop Plug-ins folder:
 
-`Applications/Adobe Photoshop CC/Plug-ins/Generator`
+    Applications/Adobe Photoshop CC/Plug-ins/Generator
 
 Open Photoshop.
 
