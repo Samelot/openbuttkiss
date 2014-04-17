@@ -4,7 +4,7 @@
 
 1. In terminal, cd to the plugin folder and run:
 
-    npm install
+> npm install
 
 1. Follow one of the methods below to set up the plugin with a Photoshop Generator.
 
