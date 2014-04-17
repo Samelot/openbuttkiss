@@ -24,7 +24,7 @@ Run the plugin from a locally cloned [generator-core](https://github.com/adobe-p
 
 > In terminal, cd to `generator-core` and run:
 >
->    node app.js -f test/plugins/openbuttkiss
+>       node app.js -f test/plugins/openbuttkiss
 >
 > This app.js contains all the magic needed to run our plugin. The plugin location is specified at the end of the command.
 
