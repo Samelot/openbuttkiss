@@ -1,0 +1,11 @@
+{
+    "name": "openbuttkiss",
+    "description": "osc-ps plugin",
+    "version": "0.0.0",
+    "main": "main.js",
+    "generator-core-version": "~2",
+    "dependencies": {
+		"node-osc": "0.2.1"
+    },
+    "devDependencies": {}
+}
