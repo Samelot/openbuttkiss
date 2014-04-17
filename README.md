@@ -22,11 +22,11 @@ Go to `Photoshop > Preferences > Plug-ins` and check `Enable Generator`. You may
 
 Run the plugin from a locally cloned [generator-core](https://github.com/adobe-photoshop/generator-core) library. My workflow consists of having all my plugins inside the generator-core plugins folder.
 
-In terminal, cd to `generator-core` and run:
-
-    node app.js -f test/plugins/openbuttkiss
-
-This app.js contains all the magic needed to run our plugin. The plugin location is specified at the end of the command.
+> In terminal, cd to `generator-core` and run:
+>
+>    node app.js -f test/plugins/openbuttkiss
+>
+> This app.js contains all the magic needed to run our plugin. The plugin location is specified at the end of the command.
 
 ## Running
 
