@@ -1,3 +1,7 @@
+#### [sizeoverload.com/blog/osc-photoshop/](http://sizeoverload.com/blog/osc-photoshop/)
+
+#### [watch a short video demonstrating this setup](https://vimeo.com/92411743)
+
 ## Installation
 
 * Download openbuttkiss.
@@ -37,4 +41,3 @@ When a message is recieved by the plugin, two things will happen in Photoshop:
 * **The foreground and background colors swap.**
 * **Photoshop is brought to the front of any other applications we have open.**
 
-#### [sizeoverload.com/blog/osc-photoshop/](http://sizeoverload.com/blog/osc-photoshop/)
